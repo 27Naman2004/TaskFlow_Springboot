@@ -1,0 +1,14 @@
+target/
+.mvn/
+mvnw
+mvnw.cmd
+.git/
+.gitignore
+.idea/
+.vscode/
+*.log
+Dockerfile
+.dockerignore
+implementation_plan.md
+task.md
+walkthrough.md

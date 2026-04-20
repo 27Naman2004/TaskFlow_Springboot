@@ -1,0 +1,12 @@
+com\naman\taskflow\enums\Role.class
+com\naman\taskflow\repository\TaskRepository.class
+com\naman\taskflow\service\TaskService.class
+com\naman\taskflow\entity\Task.class
+com\naman\taskflow\exception\GlobalExceptionHandler.class
+com\naman\taskflow\entity\Task$TaskBuilder.class
+com\naman\taskflow\exception\TaskNotFoundException.class
+com\naman\taskflow\controller\HealthController.class
+com\naman\taskflow\controller\TaskController.class
+com\naman\taskflow\TaskFlowApplication.class
+com\naman\taskflow\enums\TaskPriority.class
+com\naman\taskflow\enums\TaskStatus.class
